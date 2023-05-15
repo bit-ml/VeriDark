@@ -25,10 +25,10 @@ DISCLAIMER: Any personal information provided when requesting access to the data
 | dataset | train | val | test | task | Link |
 |---------|-------|-----|------|---------|--------|
 |[MiniDarkReddit](https://drive.google.com/file/d/1ok_CY59RhD0GgJqF1OOZMN592Zp9fgOY/view?usp=sharing) | 204 | 412 | 412 | Authorship Verification | [Google Drive link](https://drive.google.com/file/d/1ok_CY59RhD0GgJqF1OOZMN592Zp9fgOY/view?usp=sharing) |
-|[DarkReddit+](https://drive.google.com/file/d/1tVxMDVYzBSjg_iNTyrHzROwPs0uJmsDS/view?usp=sharing) | 6817 | 2275 | 2276 | Authorship Identification | [Zenodo link](https://zenodo.org/record/6998363) |
-|[DarkReddit+](https://drive.google.com/file/d/1sPSJyN-WN_sBrmFSeKPSbxmKHT_r-twN/view?usp=sharing) | 106252 | 6124 | 6633 | Authorship Verification | [Zenodo link](https://zenodo.org/record/6998375) |
-|[SilkRoad1](https://drive.google.com/file/d/11mtP94YlYSB4dY2LoZW88Mavjger_vyd/view?usp=sharing) | 614656 | 34300 | 32255 | Authorship Verification| [Zenodo link](https://zenodo.org/record/6998371) |
-|[Agora](https://drive.google.com/file/d/1ImO-xEVoxSyA21WPBS1Us14N1H7KVerV/view?usp=sharing) | 4195381 | 216570 | 219171 | Authorship Verification | [Zenodo link](https://zenodo.org/record/7018853) |
+|DarkReddit+ | 6817 | 2275 | 2276 | Authorship Identification | [Zenodo link](https://zenodo.org/record/6998363) |
+|DarkReddit+ | 106252 | 6124 | 6633 | Authorship Verification | [Zenodo link](https://zenodo.org/record/6998375) |
+|SilkRoad1 | 614656 | 34300 | 32255 | Authorship Verification| [Zenodo link](https://zenodo.org/record/6998371) |
+|Agora | 4195381 | 216570 | 219171 | Authorship Verification | [Zenodo link](https://zenodo.org/record/7018853) |
 
 ## DarkReddit dataset for Authorship Verification (AV)
 This dataset was created by crawling comments from the `/r/darknet` subreddit. The dataset is small and was introduces in this [paper](https://arxiv.org/abs/2112.05125) to assess how well does training on the PAN authorship verification datasets transfer to the smaller dataset.
